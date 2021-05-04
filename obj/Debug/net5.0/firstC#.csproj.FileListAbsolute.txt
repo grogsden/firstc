@@ -1,0 +1,16 @@
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/firstC#
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/firstC#.deps.json
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/firstC#.runtimeconfig.json
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/firstC#.runtimeconfig.dev.json
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/firstC#.dll
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/ref/firstC#.dll
+/run/media/brien/Files/CODING/firstC#/bin/Debug/net5.0/firstC#.pdb
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.csprojAssemblyReference.cache
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.AssemblyInfoInputs.cache
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.AssemblyInfo.cs
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.csproj.CoreCompileInputs.cache
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.dll
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/ref/firstC#.dll
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.pdb
+/run/media/brien/Files/CODING/firstC#/obj/Debug/net5.0/firstC#.genruntimeconfig.cache
